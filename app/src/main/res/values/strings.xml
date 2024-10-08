@@ -4,4 +4,5 @@
 
     <string name="add_number">Add Number</string>
     <string name="substract_number">Subtract Number</string>
+    <string name="reset_number">Reset Number</string>
 </resources>
